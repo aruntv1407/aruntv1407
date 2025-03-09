@@ -2,7 +2,7 @@
 <h3 align="center">No Projects Yet, But Watch Me Build Something Amazing! 💻🚀</h3>  
 
 <p align="center">
-  <img alt="Coder GIF" height=250 width=350 src="https://i.gifer.com/origin/57/57bb7741f29c5cf540b70d448beab706_w200.gif" />
+  <img alt="Coder GIF" height=250 width=350 src="daibh.gif" />
 </p>
 
 ---
