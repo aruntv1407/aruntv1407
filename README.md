@@ -20,7 +20,7 @@
 
 ### 💻 Connect with Me
 <p align="center">
-  <a href="[https://linkedin.com/in/arun t v](https://www.linkedin.com/in/arun-t-v-aa035232a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)" target="blank">
+  <a href="https://www.linkedin.com/in/arun-t-v-aa035232a" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
   </a>
   &nbsp;&nbsp;
