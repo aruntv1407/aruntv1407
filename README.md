@@ -14,7 +14,6 @@
 - 🤝 I’m looking for help with: **💡 Building My First Web Project 💻 Improving My Coding Skills 🚀**
 - 💬 Ask me about: **💻 Web Development 🎓 Learning Resources 📜 Future Project Ideas 🤔**
 - 📫 How to reach me: **[aruntv1407@gmail.com](mailto:aruntv1407@gmail.com)**
-- ⚡ Fun fact: **Every pro developer was once a beginner… and here I am! 💻🔥**
 
 ---
 
