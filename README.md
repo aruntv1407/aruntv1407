@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arun T V</h1>
-<h3 align="center">No Projects Yet, But Watch Me Build Something Amazing! 💻🚀</h3>  
+  
 
 <p align="center">
   <img alt="Coder GIF" height=250 width=350 src="daibh.gif" />
@@ -8,7 +8,7 @@
 ---
 
 ### 🚀 About Me
-- 🔭 I’m currently working on: **💻 Learning Web Development 🚀 Preparing for My First Project**
+- 🔭 I’m currently working on: **💻 Learning Web Development 
 - 🌱 I’m currently learning: **💻 Web Development (HTML, CSS, JavaScript) 🎨 Frontend Designing 🚀 Building Cool Projects**
 - 👯 I’m looking to collaborate on: **🤝 Beginner-Friendly Web Projects 💻 Small Creative Projects 🚀**
 - 🤝 I’m looking for help with: **💡 Building My First Web Project 💻 Improving My Coding Skills 🚀**
