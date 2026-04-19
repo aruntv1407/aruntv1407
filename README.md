@@ -1,6 +1,6 @@
 <div align="center">
   <h1>
-    <img src="daibh.gif" width="35" alt="wave" />
+    <img src="cat.gif" width="35" alt="wave" />
     Hi, I'm Arun T V
   </h1>
   
