@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi, I'm Arun T V.</h1>
   <p>
-    <img src="web-designer.svg" alt="Glowing Web Designer Text" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=20&duration=3000&pause=1000&color=24292E&center=true&vCenter=true&width=500&lines=Frontend+Developer;Web+Designer;Passionate+about+UI/UX" alt="Typing animation" />
   </p>
   <p>Building clean, scalable, and intuitive digital experiences.</p>
   
@@ -54,7 +54,7 @@ I am a web developer with a strong focus on frontend architecture and user inter
 </div><div align="center">
   <h1>Hi, I'm Arun T V.</h1>
   <p>
-    <img src="web-designer.svg" alt="Glowing Web Designer Text" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=20&duration=3000&pause=1000&color=24292E&center=true&vCenter=true&width=500&lines=Frontend+Developer;Web+Designer;Passionate+about+UI/UX" alt="Typing animation" />
   </p>
   <p>Building clean, scalable, and intuitive digital experiences.</p>
   
@@ -67,41 +67,38 @@ I am a web developer with a strong focus on frontend architecture and user inter
 
 ---
 
-## ????? About
+## About
 
-I am a web developer with a strong focus on frontend architecture and user interface design. I enjoy turning complex problems into simple, beautiful, and intuitive designs. I am currently expanding my expertise in modern web development to build clean, production-ready applications.
+I am a web developer with a strong focus on frontend architecture and user interface design. I enjoy turning complex problems into simple, beautiful, and intuitive designs. Currently, I am expanding my expertise in modern web technologies to build production-ready applications.
 
-*   **Focus:** Frontend Engineering, Responsive Design, User Experience
+*   **Focus:** Frontend Engineering, UI/UX, Responsive Design
 *   **Learning:** React, TypeScript, Figma
 *   **Interests:** Minimalist design, open-source collaboration, performance optimization
 
 ---
 
-## ??? Tech Stack
+## Featured Projects
+
+*   [**Creative Portfolio**](https://github.com/aruntv1407) � Building an interactive, personal showcase.
+*   [**Web Experiments**](https://github.com/aruntv1407) � A collection of beginner-friendly and creative UI projects.
+
+---
+
+## Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,typescript,git,github,vscode,figma,bootstrap&theme=light" alt="Tech Stack" />
+</div>
+
+---
+
+## GitHub Overview
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aruntv1407&theme=transparent&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="400" />
+</div>
 
 <div align="center">
   <br>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,typescript,git,github,vscode,figma,bootstrap&theme=light" alt="Tech Stack" />
-</div>
-<br>
-
----
-
-## ?? Featured Projects
-
-*   [**Creative Portfolio**](https://github.com/aruntv1407) � Building an interactive, personal showcase with a focus on UI/UX.
-*   [**Web Experiments**](https://github.com/aruntv1407) � A minimal collection of front-end components and creative coding interfaces.
-
----
-
-## ?? GitHub Overview
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aruntv1407&theme=transparent&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&title_color=24292e&text_color=444&icon_color=24292e" alt="GitHub Stats" width="450" />
-</div>
-
-<br>
-
-<div align="center">
   <em>"Design is not just what it looks like and feels like. Design is how it works."</em>
 </div>
