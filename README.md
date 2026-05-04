@@ -1,6 +1,6 @@
 <div align="center">
   <h1>
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrng815IZ/giphy.gif" width="35" alt="wave" />
+    <img src="cat.gif" width="35" alt="wave" />
     Hi, I'm Arun T V
   </h1>
   
