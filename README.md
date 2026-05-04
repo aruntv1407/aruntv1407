@@ -52,12 +52,15 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aruntv1407&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=aruntv1407&theme=tokyonight" alt="GitHub Streak" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=aruntv1407&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10" alt="GitHub Stats" />
+  &nbsp;
+  <img height="180em" src="https://streak-stats.demolab.com/?user=aruntv1407&theme=tokyonight&border_radius=10" alt="GitHub Streak" />
 </div>
 
+<br>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aruntv1407&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aruntv1407&layout=compact&theme=tokyonight&langs_count=8&border_radius=10" alt="Top Languages" />
 </div>
 
 ---
