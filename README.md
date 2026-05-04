@@ -13,21 +13,32 @@
   </p>
 </div>
 
+<div align="center">
+  <img src="./1.gif" width="480" alt="Coding Animation" />
+</div>
+
 
 ---
 
 ## 👨‍💻 About Me
 
-<div>
-  <p>
-    🔭 <strong>Currently working on:</strong> Web Development projects & learning best practices<br>
-    🌱 <strong>Learning:</strong> HTML • CSS • JavaScript • Frontend Design • Responsive Web Development<br>
-    👯 <strong>Collaborating on:</strong> Beginner-friendly web projects & creative coding initiatives<br>
-    🤝 <strong>Looking for help with:</strong> Building production-ready web applications & improving coding skills<br>
-    💬 <strong>Ask me about:</strong> Web Development, Learning Resources, Project Ideas & Web Design<br>
-    📧 <strong>Email:</strong> <a href="mailto:aruntv1407@gmail.com">aruntv1407@gmail.com</a>
-  </p>
-</div>
+<table>
+  <tr>
+    <td width="60%">
+      <p>
+        🔭 <strong>Currently working on:</strong> Web Development projects & learning best practices<br>
+        🌱 <strong>Learning:</strong> HTML • CSS • JavaScript • Frontend Design • Responsive Web Development<br>
+        👯 <strong>Collaborating on:</strong> Beginner-friendly web projects & creative coding initiatives<br>
+        🤝 <strong>Looking for help with:</strong> Building production-ready web applications & improving coding skills<br>
+        💬 <strong>Ask me about:</strong> Web Development, Learning Resources, Project Ideas & Web Design<br>
+        📧 <strong>Email:</strong> <a href="mailto:aruntv1407@gmail.com">aruntv1407@gmail.com</a>
+      </p>
+    </td>
+    <td width="40%" align="center">
+      <img src="./2.gif" width="280" alt="Developer Animation" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -59,6 +70,8 @@
 ## 🎯 Featured Projects
 
 <div align="center">
+  <img src="./3.gif" width="400" alt="Projects Animation" />
+  <br><br>
   <p><em>🚀 Building my portfolio... Check back soon!</em></p>
   <p>
     <a href="https://github.com/aruntv1407?tab=repositories">
@@ -94,6 +107,8 @@
 ## 💡 Fun Fact
 
 <div align="center">
+  <img src="./4.gif" width="300" alt="Fun Animation" />
+  <br><br>
   <p>
     <strong>💻 Every pro developer was once a beginner… and here I am! 🚀🔥</strong>
   </p>
