@@ -13,11 +13,6 @@
   </p>
 </div>
 
-<div align="center">
-  <img src="./1.gif" width="480" alt="Coding Animation" />
-</div>
-
-
 ---
 
 ## 👨‍💻 About Me
@@ -70,7 +65,7 @@
 ## 🎯 Featured Projects
 
 <div align="center">
-  <img src="./3.gif" width="400" alt="Projects Animation" />
+  <img src="./3.gif" width="80" alt="Projects Animation" />
   <br><br>
   <p><em>🚀 Building my portfolio... Check back soon!</em></p>
   <p>
