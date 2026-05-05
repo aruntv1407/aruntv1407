@@ -83,6 +83,7 @@
 ## 🌐 Connect With Me
 
 <div align="center">
+  <p><em>Feel free to reach out if you want to collaborate on a project or just say hi! 👋</em></p>
   <a href="https://www.linkedin.com/in/arun-t-v-aa035232a" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
