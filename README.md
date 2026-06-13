@@ -122,17 +122,16 @@
 
 ## 🐍 Contribution Snake
 
-<p align="center">
-  <i>Watching my contributions come alive 🚀</i>
-</p>
-
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)"
+    <source
+      media="(prefers-color-scheme: dark)"
       srcset="https://raw.githubusercontent.com/aruntv1407/aruntv1407/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)"
+    <source
+      media="(prefers-color-scheme: light)"
       srcset="https://raw.githubusercontent.com/aruntv1407/aruntv1407/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub contribution snake animation"
+    <img
+      alt="GitHub contribution snake animation"
       src="https://raw.githubusercontent.com/aruntv1407/aruntv1407/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
