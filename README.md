@@ -119,9 +119,12 @@
 ---
 
 ## 🐍 Contribution Snake
-
 <div align="center">
-  <img alt="ARUN T V contribution snake" src="./github-contribution-grid-snake-arun.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg?user=aruntv1407" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg?user=aruntv1407" />
+    <img alt="github contribution grid snake animation" src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg?user=aruntv1407" />
+  </picture>
 </div>
 ---
 
