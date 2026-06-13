@@ -126,7 +126,7 @@
     <img alt="github contribution grid snake animation" src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg?user=aruntv1407" />
   </picture>
 </div>
----
+
 
 <div align="center">
   <p>
