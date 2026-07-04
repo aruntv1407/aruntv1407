@@ -118,6 +118,8 @@
 
 ---
 
+---
+
 ## 🐍 Contribution Snake
 
 <div align="center">
@@ -129,6 +131,7 @@
 </div>
 
 ---
+
 
 <div align="center">
   <p>
