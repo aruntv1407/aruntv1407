@@ -52,7 +52,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aruntv1407&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10&hide_border=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=aruntv1407&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10" alt="GitHub Stats" />
   &nbsp;
   <img height="180em" src="https://streak-stats.demolab.com?user=aruntv1407&theme=tokyonight&border_radius=10" alt="GitHub Streak" />
 </div>
@@ -60,7 +60,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aruntv1407&layout=compact&theme=tokyonight&langs_count=8&border_radius=10&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aruntv1407&layout=compact&theme=tokyonight&langs_count=8&border_radius=10" alt="Top Languages" />
 </div>
 
 ---
@@ -124,9 +124,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aruntv1407/aruntv1407/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aruntv1407/aruntv1407/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/aruntv1407/aruntv1407/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg?user=aruntv1407" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg?user=aruntv1407" />
+    <img alt="github contribution grid snake animation" src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg?user=aruntv1407" />
   </picture>
 </div>
 
@@ -135,6 +135,6 @@
 
 <div align="center">
   <p>
-    <img src="https://komarev.com/ghpvc/?username=aruntv1407&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=aruntv1407.aruntv1407" alt="Visitor Badge" />
   </p>
 </div>
