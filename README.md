@@ -1,7 +1,7 @@
 <div align="center">
   <h1>
     <img src="cat.gif" width="35" alt="wave" />
-    Hi, I'm Arun T V <img src="https://api.iconify.design/octicon:verified-24.svg?color=%230969da" width="24" alt="verified" />
+    Hi, I'm Arun T V <img src="https://api.iconify.design/octicon:verified-16.svg?color=%230969da" width="16" alt="verified" />
   </h1>
   
   <p>
