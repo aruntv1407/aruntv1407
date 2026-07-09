@@ -54,7 +54,7 @@
 <div align="center">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=aruntv1407&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10" alt="GitHub Stats" />
   &nbsp;
-  <a href="https://git.io/streak-stats"><img height="180em" src="https://streak-stats.demolab.com/?user=aruntv1407&theme=tokyonight&border_radius=10" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img height="180em" src="https://raw.githubusercontent.com/aruntv1407/aruntv1407/main/profile/streak.svg" alt="GitHub Streak" /></a>
 </div>
 
 <br>
